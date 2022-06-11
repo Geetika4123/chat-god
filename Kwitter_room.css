@@ -1,0 +1,39 @@
+body
+{
+background-color:#F08080;
+}
+.header img
+{
+	width: 70px;margin-left: -5px;
+}
+#output
+{
+	padding: 10px; width:80%;background: rgba(179, 125, 125, 0.8);border-radius: 15px;
+}
+
+
+
+#room_name{
+   
+    background-color: pink;
+    color: white;
+}
+
+#add {
+    
+    background-color:lightpink;
+  color: palevioletred;
+  border: 2px solid  palevioletred;
+}
+
+#logout{
+    
+    background-color:rgb(191, 153, 158);
+    color: rgb(240, 230, 230);
+    border: 2px solid  rgb(154, 22, 66);
+  
+}
+
+#addlabel {
+    color: peachpuff;
+}
